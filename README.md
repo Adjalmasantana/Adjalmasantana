@@ -1,6 +1,6 @@
 ### <h1> Olá, eu sou Adjalma Santana.</h1>
 <p> <strong> Migrando da odontologia para o TI.</strong></P>
-<p> <strong> Estudondo para ser engenheiro de software.</strong></P>
+<p> <strong> Estudante de engenheiro de software INFNET-RJ.</strong></P>
 <p> <strong> Buscando sempre apender e ensinar.</strong></P>
 
 <!--
